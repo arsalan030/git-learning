@@ -1,1 +1,1 @@
-for loop
+print("hellow world .com")
